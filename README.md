@@ -26,7 +26,7 @@ I'm a software engineer who loves bridging the gap between hardware and the clou
 ## 📊 Performance Dashboard
 
 <p align="center">
-  ![GitHub Stats](https://ghstats.dev/api/card?username=RoccoBlub)
+   <img src="https://ghstats.dev/api/card?username=RoccoBlub" height="150" alt="stats graph" />
   <img src="https://i.kym-cdn.com/photos/images/original/002/179/625/217.png" height="150" alt="meme" style="margin-left: 10px;" />
 </p>
 
